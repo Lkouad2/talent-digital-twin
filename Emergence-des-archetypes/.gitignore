@@ -1,0 +1,26 @@
+# Données de recherche privées — ne jamais publier
+private/
+prive/
+raw/
+brut/
+enregistrements/
+transcriptions-brutes/
+mapping-identites.*
+cle-pseudonymisation.*
+participants-identifiants.*
+
+# Formats de données brutes ou sensibles
+*.wav
+*.mp3
+*.m4a
+*.mp4
+*.mov
+*.zoom
+*.vtt
+
+# Exports locaux et fichiers temporaires
+.DS_Store
+Thumbs.db
+~$*
+*.tmp
+*.bak
